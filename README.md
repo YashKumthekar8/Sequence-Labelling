@@ -8,3 +8,4 @@ The system is also an extended version where it can be used for multilingual lab
 Marathi and Hindi.
 
 Below is the image of architecture of BiLSTM LAN
+![image](https://github.com/user-attachments/assets/87432005-5923-43e8-921b-f47386664537)
